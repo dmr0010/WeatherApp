@@ -9,7 +9,7 @@ Live Demo [here](https://react-weather-app-v1.netlify.app/).
 First clone this repository.
 
 ```bash
-$ git clone https://https://github.com/dmr0010/WeatherApp
+$ git clone https://github.com/dmr0010/WeatherApp
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
